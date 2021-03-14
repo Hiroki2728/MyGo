@@ -4,9 +4,11 @@ import "fmt"
 
 func main() {
 	i := 1
-	for i <= 10 {
+	for {
 		fmt.Println(i)
-		i++
+		if i == 10 {
+			break
+		}
 	}
-
+	i++
 }
