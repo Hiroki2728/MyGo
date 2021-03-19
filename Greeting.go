@@ -8,9 +8,8 @@ func main() {
 	
 	fmt.Println("Good morning")
 
-
-	fmt.Println("Good afternoon")
-
 	
 	fmt.Println("Good evenig")
+	
+	fmt.Println("Good night")
 }
