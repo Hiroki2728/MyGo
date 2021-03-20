@@ -9,7 +9,7 @@ func main() {
 	fmt.Println("Good morning")
 
 	
-	fmt.Println("Good evenig")
+	fmt.Println("Good Good Good!")
 	
 	fmt.Println("Good night")
 }
