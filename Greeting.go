@@ -11,5 +11,5 @@ func main() {
 	
 	fmt.Println("Good Good Good!")
 	
-	fmt.Println("Good night")
+	fmt.Println("Good evening")
 }
